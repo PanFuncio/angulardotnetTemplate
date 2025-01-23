@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Maksymilian.Jung\\source\\repos\\simple_template1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F885CD7A-BDB9-40CE-930C-B1F7BA8F7AED}|simple_template1.Server\\simple_template1.Server.csproj|c:\\users\\maksymilian.jung\\source\\repos\\simple_template1\\simple_template1.server\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F885CD7A-BDB9-40CE-930C-B1F7BA8F7AED}|simple_template1.Server\\simple_template1.Server.csproj|solutionrelative:simple_template1.server\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0F3C2E-D5E9-4CE5-8264-C6D43A77BA32}|simple_template1.client\\simple_template1.client.esproj|c:\\users\\maksymilian.jung\\source\\repos\\simple_template1\\simple_template1.client\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FD0F3C2E-D5E9-4CE5-8264-C6D43A77BA32}|simple_template1.client\\simple_template1.client.esproj|solutionrelative:simple_template1.client\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0F3C2E-D5E9-4CE5-8264-C6D43A77BA32}|simple_template1.client\\simple_template1.client.esproj|c:\\users\\maksymilian.jung\\source\\repos\\simple_template1\\simple_template1.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD0F3C2E-D5E9-4CE5-8264-C6D43A77BA32}|simple_template1.client\\simple_template1.client.esproj|solutionrelative:simple_template1.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0F3C2E-D5E9-4CE5-8264-C6D43A77BA32}|simple_template1.client\\simple_template1.client.esproj|c:\\users\\maksymilian.jung\\source\\repos\\simple_template1\\simple_template1.client\\src\\input.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FD0F3C2E-D5E9-4CE5-8264-C6D43A77BA32}|simple_template1.client\\simple_template1.client.esproj|solutionrelative:simple_template1.client\\src\\input.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0F3C2E-D5E9-4CE5-8264-C6D43A77BA32}|simple_template1.client\\simple_template1.client.esproj|c:\\users\\maksymilian.jung\\source\\repos\\simple_template1\\simple_template1.client\\src\\app\\app.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FD0F3C2E-D5E9-4CE5-8264-C6D43A77BA32}|simple_template1.client\\simple_template1.client.esproj|solutionrelative:simple_template1.client\\src\\app\\app.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0F3C2E-D5E9-4CE5-8264-C6D43A77BA32}|simple_template1.client\\simple_template1.client.esproj|c:\\users\\maksymilian.jung\\source\\repos\\simple_template1\\simple_template1.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD0F3C2E-D5E9-4CE5-8264-C6D43A77BA32}|simple_template1.client\\simple_template1.client.esproj|solutionrelative:simple_template1.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0F3C2E-D5E9-4CE5-8264-C6D43A77BA32}|simple_template1.client\\simple_template1.client.esproj|c:\\users\\maksymilian.jung\\source\\repos\\simple_template1\\simple_template1.client\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FD0F3C2E-D5E9-4CE5-8264-C6D43A77BA32}|simple_template1.client\\simple_template1.client.esproj|solutionrelative:simple_template1.client\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0F3C2E-D5E9-4CE5-8264-C6D43A77BA32}|simple_template1.client\\simple_template1.client.esproj|c:\\users\\maksymilian.jung\\source\\repos\\simple_template1\\simple_template1.client\\src\\.postcssrc.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FD0F3C2E-D5E9-4CE5-8264-C6D43A77BA32}|simple_template1.client\\simple_template1.client.esproj|solutionrelative:simple_template1.client\\src\\.postcssrc.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F885CD7A-BDB9-40CE-930C-B1F7BA8F7AED}|simple_template1.Server\\simple_template1.Server.csproj|c:\\users\\maksymilian.jung\\source\\repos\\simple_template1\\simple_template1.server\\data\\entities\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F885CD7A-BDB9-40CE-930C-B1F7BA8F7AED}|simple_template1.Server\\simple_template1.Server.csproj|solutionrelative:simple_template1.server\\data\\entities\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F885CD7A-BDB9-40CE-930C-B1F7BA8F7AED}|simple_template1.Server\\simple_template1.Server.csproj|c:\\users\\maksymilian.jung\\source\\repos\\simple_template1\\simple_template1.server\\feature\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F885CD7A-BDB9-40CE-930C-B1F7BA8F7AED}|simple_template1.Server\\simple_template1.Server.csproj|solutionrelative:simple_template1.server\\feature\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F885CD7A-BDB9-40CE-930C-B1F7BA8F7AED}|simple_template1.Server\\simple_template1.Server.csproj|c:\\users\\maksymilian.jung\\source\\repos\\simple_template1\\simple_template1.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F885CD7A-BDB9-40CE-930C-B1F7BA8F7AED}|simple_template1.Server\\simple_template1.Server.csproj|solutionrelative:simple_template1.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F885CD7A-BDB9-40CE-930C-B1F7BA8F7AED}|simple_template1.Server\\simple_template1.Server.csproj|c:\\users\\maksymilian.jung\\source\\repos\\simple_template1\\simple_template1.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F885CD7A-BDB9-40CE-930C-B1F7BA8F7AED}|simple_template1.Server\\simple_template1.Server.csproj|solutionrelative:simple_template1.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 289,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "angular.json",
+              "DocumentMoniker": "C:\\Users\\Maksymilian.Jung\\source\\repos\\simple_template1\\simple_template1.client\\angular.json",
+              "RelativeDocumentMoniker": "simple_template1.client\\angular.json",
+              "ToolTip": "C:\\Users\\Maksymilian.Jung\\source\\repos\\simple_template1\\simple_template1.client\\angular.json",
+              "RelativeToolTip": "simple_template1.client\\angular.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-23T09:52:35.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Maksymilian.Jung\\source\\repos\\simple_template1\\simple_template1.client\\src\\index.html",
+              "RelativeDocumentMoniker": "simple_template1.client\\src\\index.html",
+              "ToolTip": "C:\\Users\\Maksymilian.Jung\\source\\repos\\simple_template1\\simple_template1.client\\src\\index.html",
+              "RelativeToolTip": "simple_template1.client\\src\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-01-23T09:30:38.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": ".postcssrc.json",
+              "DocumentMoniker": "C:\\Users\\Maksymilian.Jung\\source\\repos\\simple_template1\\simple_template1.client\\src\\.postcssrc.json",
+              "RelativeDocumentMoniker": "simple_template1.client\\src\\.postcssrc.json",
+              "ToolTip": "C:\\Users\\Maksymilian.Jung\\source\\repos\\simple_template1\\simple_template1.client\\src\\.postcssrc.json",
+              "RelativeToolTip": "simple_template1.client\\src\\.postcssrc.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-23T09:22:46.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\Maksymilian.Jung\\source\\repos\\simple_template1\\simple_template1.client\\src\\styles.css",
+              "RelativeDocumentMoniker": "simple_template1.client\\src\\styles.css",
+              "ToolTip": "C:\\Users\\Maksymilian.Jung\\source\\repos\\simple_template1\\simple_template1.client\\src\\styles.css",
+              "RelativeToolTip": "simple_template1.client\\src\\styles.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-23T09:21:39.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "app.component.html",
+              "DocumentMoniker": "C:\\Users\\Maksymilian.Jung\\source\\repos\\simple_template1\\simple_template1.client\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "simple_template1.client\\src\\app\\app.component.html",
+              "ToolTip": "C:\\Users\\Maksymilian.Jung\\source\\repos\\simple_template1\\simple_template1.client\\src\\app\\app.component.html",
+              "RelativeToolTip": "simple_template1.client\\src\\app\\app.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-01-23T09:20:22.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Maksymilian.Jung\\source\\repos\\simple_template1\\simple_template1.Server\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "simple_template1.Server\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Maksymilian.Jung\\source\\repos\\simple_template1\\simple_template1.Server\\Properties\\launchSettings.json",
+              "RelativeToolTip": "simple_template1.Server\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-23T08:54:00.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Maksymilian.Jung\\source\\repos\\simple_template1\\simple_template1.Server\\Feature\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "simple_template1.Server\\Feature\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Maksymilian.Jung\\source\\repos\\simple_template1\\simple_template1.Server\\Feature\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "simple_template1.Server\\Feature\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T08:35:21.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Maksymilian.Jung\\source\\repos\\simple_template1\\simple_template1.Server\\Program.cs",
+              "RelativeDocumentMoniker": "simple_template1.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\Maksymilian.Jung\\source\\repos\\simple_template1\\simple_template1.Server\\Program.cs",
+              "RelativeToolTip": "simple_template1.Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T08:34:43.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Maksymilian.Jung\\source\\repos\\simple_template1\\simple_template1.Server\\Data\\Entities\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "simple_template1.Server\\Data\\Entities\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Maksymilian.Jung\\source\\repos\\simple_template1\\simple_template1.Server\\Data\\Entities\\WeatherForecast.cs",
+              "RelativeToolTip": "simple_template1.Server\\Data\\Entities\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T08:34:39.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Maksymilian.Jung\\source\\repos\\simple_template1\\simple_template1.Server\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "simple_template1.Server\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Maksymilian.Jung\\source\\repos\\simple_template1\\simple_template1.Server\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "simple_template1.Server\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T08:31:36.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "app.component.css",
+              "DocumentMoniker": "C:\\Users\\Maksymilian.Jung\\source\\repos\\simple_template1\\simple_template1.client\\src\\app\\app.component.css",
+              "RelativeDocumentMoniker": "simple_template1.client\\src\\app\\app.component.css",
+              "ToolTip": "C:\\Users\\Maksymilian.Jung\\source\\repos\\simple_template1\\simple_template1.client\\src\\app\\app.component.css",
+              "RelativeToolTip": "simple_template1.client\\src\\app\\app.component.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-23T09:47:10.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "input.css",
+              "DocumentMoniker": "C:\\Users\\Maksymilian.Jung\\source\\repos\\simple_template1\\simple_template1.client\\src\\input.css",
+              "RelativeDocumentMoniker": "simple_template1.client\\src\\input.css",
+              "ToolTip": "C:\\Users\\Maksymilian.Jung\\source\\repos\\simple_template1\\simple_template1.client\\src\\input.css",
+              "RelativeToolTip": "simple_template1.client\\src\\input.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-23T09:47:15.398Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

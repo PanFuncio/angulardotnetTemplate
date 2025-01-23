@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "MBVLnOTrRrxN8lsDnKYfaL012nEzvaPn7XbhIT3nuPA=",
+  "Source": "simple_template1.Server",
+  "BasePath": "_content/simple_template1.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\Maksymilian.Jung\\source\\repos\\simple_template1\\simple_template1.client\\simple_template1.client.esproj",
+      "Version": 2,
+      "Source": "simple_template1.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
